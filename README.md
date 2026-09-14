@@ -34,8 +34,8 @@ ssh username@158.42.124.228
 Once you are logged in the server, clone the session repository.
 
 ```
-git clone X
-cd X
+git clone https://github.com/jperezalemany/atac_session.git
+cd atac_session
 ```
  
 The repository is organized into five main directories:
