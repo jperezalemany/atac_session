@@ -237,3 +237,13 @@ Inspect the scatter plot showing RNA-seq and ATAC-seq fold changes.
 
 **7.1. Is there a good correlation between changes in RNA expression and chromatin accessibility?**
 
+## Reading materials
+
+[Wu et al. 2022](https://www.sciencedirect.com/science/article/pii/S153458072101039X) - The study from which the ATAC-seq dataset was used.
+
+[Buenrostro et al. 2013](https://www.nature.com/articles/nmeth.2688) - Original ATAC-seq method publication.
+
+[Grandi et al. 2022](https://www.nature.com/articles/s41596-022-00692-9) - Nature protocols for ATAC-seq.
+
+[Yan et al. 2020](https://link.springer.com/article/10.1186/s13059-020-1929-3) - ATAC-seq data analysis guide.
+
