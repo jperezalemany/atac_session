@@ -1,0 +1,7 @@
+sample_title,condition,replicate,read_1,read_2
+CIM7_rep1,CIM7,1,00_raw_data/CIM7_rep1_1.fq.gz,00_raw_data/CIM7_rep1_2.fq.gz
+CIM7_rep2,CIM7,2,00_raw_data/CIM7_rep2_1.fq.gz,00_raw_data/CIM7_rep2_2.fq.gz
+SIM6_rep1,SIM6,1,00_raw_data/SIM6_rep1_1.fq.gz,00_raw_data/SIM6_rep1_2.fq.gz
+SIM6_rep2,SIM6,2,00_raw_data/SIM6_rep2_1.fq.gz,00_raw_data/SIM6_rep2_2.fq.gz
+SIM8_rep1,SIM8,1,00_raw_data/SIM8_rep1_1.fq.gz,00_raw_data/SIM8_rep1_2.fq.gz
+SIM8_rep2,SIM8,2,00_raw_data/SIM8_rep2_1.fq.gz,00_raw_data/SIM8_rep2_2.fq.gz
