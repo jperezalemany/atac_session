@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Parameters
-inputs_dir="results/05_coverage"
+inputs_dir="results/06_coverage"
 results_dir="results/08_peak_calling"
 logs_dir="logs/08_peak_calling"
 
